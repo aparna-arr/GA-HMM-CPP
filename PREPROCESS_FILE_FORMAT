@@ -1,0 +1,17 @@
+WIG	<wigfile>
+	NORM	<y/n>
+CHR	<chr>
+	MODEL	<tab-separated coord>
+	TEST	<tab-separated coord>
+	RUN	<tab-separated coord>
+INITMODEL	<y/n>
+	FILENAME	<model/template filename>
+	CREATE	<y/n>
+	NOISY_1	<bed file>
+	NOISY_2	<bed_file
+	NOISY_INTER	<bedfile>
+	GENOMIC	<bedfile>
+	SPARSE_1	<bedfile>
+	SPARSE_2	<bedfile>
+	SPARSE_INTER	<bedfile>
+	
